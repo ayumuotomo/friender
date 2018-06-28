@@ -1,0 +1,26 @@
+
+/* navbar 全体の背景色とボーダーカラー */
+.navbar-default {
+background-color: #FFFFFF;
+}
+
+
+.navbar-brand{
+   
+    font-family:"Segoe Script";
+    font-weight: bold;
+    font-size: xx-large; 
+
+}
+
+body .navbar-brand-right {
+     font-family:"Segoe Script";
+}
+
+
+body .text-centre {
+     font-family:"Segoe Print";
+     font-weight: bold;
+     margin-top: 200px;
+}
+
